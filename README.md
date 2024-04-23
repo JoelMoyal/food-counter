@@ -7,14 +7,15 @@ my Motivation in this project was to learn to create a simplistic website that c
 ## Build status
 Build status of continus integration i.e. travis, appveyor etc. Ex. - 
 
-[![Build Status](https://travis-ci.org/akashnimare/foco.svg?branch=master)](https://travis-ci.org/akashnimare/foco)
-[![Windows Build Status](https://ci.appveyor.com/api/projects/status/github/akashnimare/foco?branch=master&svg=true)](https://ci.appveyor.com/project/akashnimare/foco/branch/master)
+[![Build Status]()
+[![Windows Build Status]()
 
  
 ## Screenshots
 Include logo/demo screenshot etc.
 
-
+  ![alt text](Public/Images/Ticket_system.png)
+ 
 
 ## Features
 - MySQL database 
