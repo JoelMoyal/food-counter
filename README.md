@@ -1,20 +1,9 @@
 ## Food Counter
 This project is a learning HTML/CSS project with an option to connect to a database server. 
 
-## Motivation
-my Motivation in this project was to learn to create a simplistic website that can perform CRUD operations.  
-
-## Build status
-Build status of continus integration i.e. travis, appveyor etc. Ex. - 
-
-[![Build Status]()
-[![Windows Build Status]()
-
- 
 ## Screenshots
-Include logo/demo screenshot etc.
 
-  ![alt text](Public/Images/Ticket_system.png)
+  ![Image of Website](Public/Images/Ticket_system.png)
  
 
 ## Features
