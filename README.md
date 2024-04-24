@@ -1,4 +1,4 @@
-Project status: Final.
+>Project status: Final.
 
 ## Food Counter
 This project is a learning HTML/CSS project with an option to connect to a database server. 
