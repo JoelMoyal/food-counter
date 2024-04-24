@@ -18,13 +18,13 @@ app.use((req, res, next) => {
 
 app.get('/', function(req, res) {
     res.writeHead(200, {"Content-Type": "text/html"});
-        html = fs.readFileSync('./Public/Views/index.html');
+        html = fs.readFileSync('./index.html');
         res.write(html);
         res.end();
 });
 app.get('/index.html', function(req, res) {
     res.writeHead(200, {"Content-Type": "text/html"});
-        html = fs.readFileSync('./Public/Views/index.html');
+        html = fs.readFileSync('./index.html');
         res.write(html);
         res.end();
 });
